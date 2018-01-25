@@ -2,3 +2,7 @@
 .project
 .settings/
 target/
+/target/
+/.idea/
+.idea/
+/maven-code-gen-plugin.iml
